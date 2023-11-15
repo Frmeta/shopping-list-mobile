@@ -6,4 +6,6 @@ class ShopItem {
   final IconData icon;
 
   ShopItem(this.name, this.icon);
+
+  
 }
