@@ -17,3 +17,5 @@ samples, guidance on mobile development, and a full API reference.
 
 Build badge format Markdown:
 https://build.appcenter.ms/v0.1/apps/4f7cdddd-3a41-4883-bf43-858785aecf84/branches/main/badge
+
+Tautan publik dari publikasi aplikasi: https://install.appcenter.ms/orgs/fredo-organization/apps/shopping-list/distribution_groups/public
